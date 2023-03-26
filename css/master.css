@@ -1016,8 +1016,8 @@ padding-left:0px;
 .ourskill .progress span{
     display: block;
     height: 100%;
-
     background-color: var(--main-color);
+    transition:0.5s;
 }
 
 .ourskill .progress span::before{
